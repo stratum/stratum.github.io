@@ -1,5 +1,5 @@
 ### Outline
-- Introduction
+- [Introduction](#introduction)
 - Protocol Overview (coming soon)
 - Use Cases (coming soon)
 - Architecture Details (coming soon)

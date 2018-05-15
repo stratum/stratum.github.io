@@ -1,2 +1,3 @@
-# stratum.github.io
+# Stratum Project
+
 Stratum Developer Website

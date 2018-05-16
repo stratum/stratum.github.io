@@ -1,6 +1,9 @@
+---
+layout: default
+---
 # Stratum Project Developer Site
 
-This site is a work in progress... please pardon our dust!
+**This site is a work in progress... please pardon our dust!**
 
 ### Join the Mailing List
 We have an annoucement mailing list for periodic updates about the project.

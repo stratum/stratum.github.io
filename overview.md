@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ### Outline
 - [Introduction](#introduction)
 - Protocol Overview (coming soon)

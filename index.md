@@ -5,7 +5,7 @@ layout: default
 
 **This site is a work in progress... please pardon our dust!**
 
-### Join the Mailing List
+## Join the Mailing List
 We have an annoucement mailing list for periodic updates about the project.
 To sign up: 
 
@@ -13,9 +13,9 @@ Step 1: Fill in the form: https://lists.stratumproject.org/listinfo/stratum-anno
 
 Step 2: Click the link in the confirmation email
 
-### [Learn more about Stratum](//docs.stratumproject.org/overview)
+## [Learn more about Stratum](//docs.stratumproject.org/overview)
 
-### Become a Member of the Project
+## Become a Member of the Project
 Stratum is currently undergoing incubation, and the source code, as along with some documentation and mailing lists, is only available to Stratum members. Anyone (companies or individuals) can become a member.
 
 Here are the requirements:

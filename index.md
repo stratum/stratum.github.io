@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Stratum Project Developer Site
+# Stratum Project Developer Site!
 
 **This site is a work in progress... please pardon our dust!**
 
